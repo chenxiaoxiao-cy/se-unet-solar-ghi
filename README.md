@@ -125,10 +125,10 @@ If you use this code or the pretrained weights in your work, please cite this re
 
 ```bibtex
 @software{se_unet_ghi,
-  author  = {Fan Yan},
+  author  = {Chen Ying},
   title   = {SE-UNet for GHI Estimation from FY-4 Satellite Data},
   year    = {2025},
-  url     = {https://github.com/<your-username>/se-unet-ghi}
+  url     = {https://github.com/chenxiaoxiao-cy/se-unet-ghi}
 }
 ```
 

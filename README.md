@@ -98,9 +98,9 @@ Download `best_model.pth` and place it in the project root:
 
 | Link | Description |
 |------|-------------|
-| [Hugging Face / Google Drive — TODO] | Trained on FY-4A data over China, 2021–2023 |
+| Weights available upon request | Trained on FY-4A data over China, January 2021 |
 
-> **Note:** weights will be added upon paper acceptance.
+> **Note:** Contact the author if you need the pretrained weights.
 
 ---
 

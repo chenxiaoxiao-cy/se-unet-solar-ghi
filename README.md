@@ -61,7 +61,7 @@ Output (B, 1, H, W)   ×1000 → GHI in W/m²
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/se-unet-ghi.git
+git clone https://github.com/chenxiaoxiao-cy/se-unet-ghi.git
 cd se-unet-ghi
 pip install -r requirements.txt
 ```

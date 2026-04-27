@@ -179,24 +179,12 @@ Conv2d 1×1 + Sigmoid
 
 ---
 
-## 引用
 
-如果本代码对您的研究有帮助，请引用：
-
-```bibtex
-@software{se_unet_ghi,
-  author  = {Chen Ying},
-  title   = {SE-UNet for GHI Estimation from FY-4 Satellite Data},
-  year    = {2026},
-  url     = {https://github.com/chenxiaoxiao-cy/se-unet-solar-ghi}
-}
-```
-
----
 
 ## 作者信息
 
-本模型训练由**陈颖**（中国地质大学（北京））等完成。
+模型训练:**陈颖**（中国地质大学（北京））、**侯宇田**（哈尔滨工业大学）等，中国科学院大气物理研究所（IAP/CAS），RUMLA。
+<img width="344" height="344" alt="image" src="https://github.com/user-attachments/assets/e4e062d7-81ae-4821-a591-49b00c357f2e" />
 
 如有问题或需要预训练权重，欢迎通过 GitHub Issues 联系。
 
